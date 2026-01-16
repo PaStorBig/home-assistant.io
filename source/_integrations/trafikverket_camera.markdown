@@ -26,7 +26,7 @@ When more than one camera has the same name, use the more precise location in yo
 
 ## Prerequisites
 
-Please click [here](https://api.trafikinfo.trafikverket.se/) and register to obtain the API key.
+Please click [here](https://www.trafikverket.se/api) and register to obtain the API key.
 
 {% include integrations/config_flow.md %}
 
